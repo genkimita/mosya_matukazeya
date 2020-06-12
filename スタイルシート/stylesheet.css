@@ -9,7 +9,11 @@ head {
 }
 .about h1{
   font-size: 27px;
+  padding-bottom:70px;
 }
 .about li{
   font-size: 18px;
+  list-style: none;
+  
 }
+
