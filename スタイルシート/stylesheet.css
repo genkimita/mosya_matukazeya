@@ -26,3 +26,13 @@ left: 0px;
 .product-wrapper {
   text-align: center;
 }
+
+.introduction-wrapper {
+  text-align: center;
+}
+.introduction-wrapper h1{
+  font-size: 30px;
+}
+.introduction-wrapper {
+  font-size: 16px;
+}
