@@ -4,16 +4,17 @@ head {
   background-size: cover;
 }
 
+body {
+  text-align: center;
+}
+
 .about {
   text-align: center;
 }
 .about h1{
   font-size: 27px;
-  padding-bottom:70px;
 }
 .about li{
   font-size: 18px;
   list-style: none;
-  
 }
-
