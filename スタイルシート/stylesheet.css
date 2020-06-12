@@ -2,6 +2,10 @@ head {
 
 }
 
+body {
+  font-family:"kyokasho_I";
+}
+
 .header {
   margin:0 auto;
 }
@@ -26,6 +30,16 @@ left: 0px;
 .product-wrapper {
   text-align: center;
 }
+.product-wrapper h1{
+  font-size: 19px;
+}
+.product-wrapper h2{
+  font-size: 21px;
+}
+.product-wrapper h2 span{
+  font-size: 18px;
+}
+
 
 .introduction-wrapper {
   text-align: center;
