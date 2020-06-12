@@ -16,3 +16,13 @@ head {
   font-size: 18px;
   list-style: none;
 }
+
+
+.product {
+position: relative;
+top: 0px;
+left: 0px;
+}
+.product-wrapper {
+  text-align: center;
+}
