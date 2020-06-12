@@ -4,7 +4,9 @@ head {
   background-size: cover;
 }
 
-body {
+body {}
+
+.header{
   text-align: center;
 }
 
