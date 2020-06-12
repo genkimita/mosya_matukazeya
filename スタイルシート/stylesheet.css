@@ -1,4 +1,14 @@
 head {
-  background-image:  url("イメージ/ic_products5.jpg"):
+  background-image:  url("イメージ/ic_products5.jpg"):
   background-size: cover;
+}
+
+.about {
+  text-align: center;
+}
+.about h1{
+  font-size: 27px;
+}
+.about li{
+  font-size: 18px;
 }
