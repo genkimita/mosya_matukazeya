@@ -87,11 +87,14 @@ footer {
   list-style: none;
 }
 .footer-access {
-display: flex;
+
   text-align: left;
 }
 .footer-address-box li{
   list-style: none;
+}
+.footer-sns {
+  float:right;
 }
 
 
