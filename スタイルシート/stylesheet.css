@@ -75,17 +75,17 @@ footer {
 }
 .footer-boxgate {
   display: flex;
+  text-align: left;
 }
 .footer-boxgate li{
   list-style: none;
-  float:left;
 }
 .footer-access {
   display: flex;
+  text-align: left;
 }
 .footer-address-box li{
   list-style: none;
-  float:left;
 }
 
 
