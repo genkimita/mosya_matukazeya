@@ -80,9 +80,12 @@ footer {
   list-style: none;
   float:left;
 }
-
+.footer-access {
+  display: flex;
+}
 .footer-address-box li{
   list-style: none;
+  float:left;
 }
 
 
