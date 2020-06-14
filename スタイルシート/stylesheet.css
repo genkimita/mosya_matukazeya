@@ -71,6 +71,12 @@ left: 0px;
 footer {
   text-align: center;
 }
+.footer-boxgate li{
+  list-style: none;
+}
+.footer-address-box li{
+  list-style: none;
+}
 
 copyright {
   text-align: center;
