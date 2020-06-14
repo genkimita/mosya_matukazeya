@@ -73,9 +73,11 @@ footer {
   background-color:rgb(0, 0, 0);
   color:#ffffff;
 }
+.footer-boxgate {
+  float:left;
+}
 .footer-boxgate li{
   list-style: none;
-  float:left;
 }
 .footer-address-box li{
   list-style: none;
