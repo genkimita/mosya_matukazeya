@@ -74,7 +74,7 @@ footer {
   color:#ffffff;
 }
 .footer-content {
-  display: inline-block;
+
 }
 .footer-boxgate {
   display: flex;
@@ -84,7 +84,7 @@ footer {
   list-style: none;
 }
 .footer-access {
-  display: inline-block;
+
   text-align: left;
 }
 .footer-address-box li{
