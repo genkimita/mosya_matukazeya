@@ -79,9 +79,13 @@ footer {
 .footer-boxgate li{
   list-style: none;
 }
+.footer-access {
+  float:left;
+}
 .footer-address-box li{
   list-style: none;
 }
+
 
 copyright {
   text-align: center;
