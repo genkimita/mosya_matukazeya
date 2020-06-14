@@ -74,14 +74,12 @@ footer {
   color:#ffffff;
 }
 .footer-boxgate {
-  float:left;
+  display: flex;
 }
 .footer-boxgate li{
   list-style: none;
 }
-.footer-access {
-  float:left;
-}
+
 .footer-address-box li{
   list-style: none;
 }
