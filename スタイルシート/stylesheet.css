@@ -78,6 +78,7 @@ footer {
 }
 .footer-boxgate li{
   list-style: none;
+  float:left;
 }
 
 .footer-address-box li{
