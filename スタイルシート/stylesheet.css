@@ -55,11 +55,13 @@ left: 0px;
 }
 
 notice {
-  text-align: center;
+
+  margin:0 auto;
 }
 
 order {
   text-align: center;
+
 }
 
 access {
