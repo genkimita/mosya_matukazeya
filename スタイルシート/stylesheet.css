@@ -88,6 +88,7 @@ margin:0 auto;
   float:left;
   display: flex;
   text-align: left;
+  padding-top:35px;
 }
 .footer-boxgate li{
   list-style: none;
@@ -118,6 +119,9 @@ width:50%;
 
 .copyright {
   text-align: center;
+  background-color:#ffffff;
+  color:#000000;
+  font-weight: normal;
 }
 
 }
