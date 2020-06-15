@@ -92,10 +92,12 @@ margin:0 auto;
   color:#ffffff;
 display: flex;
 }
-.footer-address-title {
-}
 .footer-address-box {
   text-align: left;
+}
+.footer-address-title {
+  font-weight: bold;
+  padding-bottom:20px;
 }
 .footer-address-box li{
   list-style: none;
