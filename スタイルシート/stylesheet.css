@@ -88,10 +88,10 @@ margin:0 auto;
   list-style: none;
 }
 .footer-access {
-
+display: flex;
 }
 .footer-address-title {
-  display: flex;
+
   text-align: left;
 }
 .footer-address-box li{
