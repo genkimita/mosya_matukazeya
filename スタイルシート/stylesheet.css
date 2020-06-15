@@ -50,7 +50,18 @@ left: 0px;
   font-size: 18px;
 }
 
+.introduction {
+  text-align: center;
+}
+.introduction-box {
+  text-align: center;
+}
+.introduction-box img{
+  display: inline-block;
+}
+.introduction-btn {
 
+}
 .introduction-wrapper {
   text-align: center;
 }
