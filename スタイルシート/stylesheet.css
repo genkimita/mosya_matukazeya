@@ -69,12 +69,12 @@ left: 0px;
 }
 
 footer {
-  margin:0 auto;
+  
   background-color:rgb(0, 0, 0);
   color:#ffffff;
 }
 .footer {
-
+display: flex;
 }
 .footer-content {
 
@@ -87,14 +87,13 @@ footer {
   list-style: none;
 }
 .footer-access {
-
   text-align: left;
 }
 .footer-address-box li{
   list-style: none;
 }
 .footer-sns {
-  float:right;
+
 }
 
 
