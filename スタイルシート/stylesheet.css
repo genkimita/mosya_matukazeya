@@ -1,147 +1,127 @@
-<!DOCTYPE html>
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
 
-<html>
+head {
 
-<head>
-<meta charset="utf-8">
-<title>株式会社松風屋｜創業約100年　山形の菓子処松風屋｜公式サイト</title>
-<link rel="stylesheet" href="スタイルシート/stylesheet.css">
-</head>
+}
 
-<body>
-  <div class="header">
-    <img src="イメージ/logo (2).png">
-  </div>
+body {
+  font-family:"kyokasho_l";
+}
 
-<div class="about">
-<h1>和菓子処松風屋のこだわり</h1>
-<ul>
-<li>当社は、大正10年に創業した約100年の歴史を持つ和菓子屋です。</li>
-<li>初代社長、佐々木市郎は俳聖松尾芭蕉を敬愛しており、「奥の細道　芭蕉最中」など</li>
-<li>芭蕉にゆかりのある菓子を作り続けてきました。</li>
-<li>松尾芭蕉が奥の細道の旅の間に見出した概念に「不易流行」というものがあります。</li>
-<li>これは、いつまでも変化しない本質的なものを忘れない中にも、</li>
-<li>新しい変化を取り入れていくということです。</li>
-<li>当社はこの言葉を経営理念とし、昔からの伝統を守りつつ、</li>
-<li>時代の流れや新しい変化を取り入れ、常により良い菓子を探求し続けています。</li>
-</ul>
-<img src="イメージ/name.png">
-<p>株式会社松風屋三代目　佐々木啓仁</p>
-<a class="btn" href="○">
-<input type="submit" value="詳しく見る" href="">
-</a>
-</div>
+.header {
+  margin:0 auto;
+}
 
-<div class="product">
-  <div class="product-wrapper">
-  <h1>和菓子職人が丹精込めて作った</h1>
-  <h2>昔なつかし<span>あんどーなつ</span></h2>
-  <p>繊細な味覚を持つ和菓子職人が丹精込めて作ったら、上品な甘さの特別なあんどーなつができました。
-こだわりの食材を職人の技で仕上げた松風屋のあんどーなつをぜひご賞味ください。</p>
-<input type="submit" value="詳しく見る" href="">
-</div>
-</div>
-
-<div class="introduction">
-  <div class="introduction-wrapper">
-  <h1>商品のご紹介</h1>
-  <h2>素材の良さを活かしながら、熟練の技でひとつひとつ、まごころ込めて手作りしています。</h2>
-  <input type="submit" value="商品一覧" href="">
-  </div>
-</div>
-
-</body>
-
-<notice>
-  <div class="notice-wrapper">
-  <h1>お知らせ</h1>
-  <input type="submit" value="Facebook">
-  </div>
-</notice>
-
-<order>
-  <div class="order-wrapper">
-  <h1>商品のご注文・お問い合わせ</h1>
-  <h2>松風屋では、全国のお客様への発送も行っております。<br />商品のご注文や、その他お問い合わせ等お待ちしております。</h2>
-  <h3>TEL：023-631-3012<br />FAX：023-631-3013</h3>
-  <input type="submit" value="ご注文・お問い合わせ">
-  </div>
-</order>
-
-<access>
-<div class="access-wrapper">
-    <h1>店舗情報</h1>
- <div class="access-container">
-
-       <h1>株式会社松風屋</h1>
-
-       <div class="access-content-category">
-         <h1>住所</h1>
-         <h2>TEL/FAX</h2>
-         <h3>営業時間</h3>
-         <h4>定休日</h4>
-       </div>
-       <div class="access-content-address">
-         <h1>〒990-0042<br />山形県山形市七日町四丁目3−11</h1>
-         <h2>023-631-3012／023-631-3013</h2>
-         <h3>平日8：30～18：30<br />日曜9：00～17：00</h3>
-         <h4>年中無休</h4>
-       </div>
-        <div class="access-map">
-        </div>
- </div>
-   <input type="submit" value="会社概要・店舗情報">
-</div>
-</access>
-
-<footer>
-  <div class="footer-block">
-     <div class="footer-logo">
-        <img src="イメージ/logo (1).png">
-     </div>
-  </div><div class="footer-block">
-      <div class="footer-boxgate">
-      <ul class="footer-box-first">
-        <li>トップページ</li>
-        <li>松風屋のこだわり</li>
-        <li>あんどーなつ</li>
-      </ul>
-      <ul class="footer-box-second">
-        <li>商品のご紹介</li>
-        <li>ご注文・お問い合わせ</li>
-        <li>店舗情報</li>
-      </ul>
-      <ul class="footer-box-third">
-        <li>会社概要</li>
-        <li>Facebookページ</li>
-      </ul>
-      </div>
-  </div>
+.about {
+  text-align: center;
+}
+.about h1{
+  font-size: 27px;
+}
+.about li{
+  font-size: 18px;
+  list-style: none;
+}
 
 
-</footer>
-
- <div class="footer-access">
-   <div class="footer-address">
-     <ul class="footer-address-box">
-      <li class="footer-address-title">株式会社松風屋</li>
-      <li>〒990-0042 山形県山形市七日町四丁目3−11</li>
-      <li>TEL：023-631-3012　FAX：023-631-3013</li>
-     </ul>
-   </div><div class="footer-address">
-     <div class="footer-address-img">
-     <img src="イメージ/btn_fb.png" href="">
-     <img src="イメージ/btn_tw.png" href="">
-   </div>
- </div>
-
-
-
-
-
-  <div class="copyright">
-  <h1>Copyright 株式会社松風屋 All right reserved.</h1>
-  </div>
+.product {
+position: relative;
+top: 0px;
+left: 0px;
+}
+.product-wrapper {
+  text-align: center;
+}
+.product-wrapper h1{
+  font-size: 19px;
+}
+.product-wrapper h2{
+  font-size: 21px;
+}
+.product-wrapper h2 span{
+  font-size: 30px;
+}
+.product-wrapper p{
+  font-size: 18px;
+}
 
 
-</html>
+.introduction-wrapper {
+  text-align: center;
+}
+.introduction-wrapper h1{
+  font-size: 30px;
+}
+.introduction-wrapper {
+  font-size: 16px;
+}
+
+.notice-wrapper {
+  text-align: center;
+}
+
+.order-wrapper {
+  text-align: center;
+}
+
+.access-wrapper {
+  text-align: center;
+}
+
+footer {
+text-align: center;
+  background-color:rgb(0, 0, 0);
+  color:#ffffff;
+}
+.footer-block {
+  display: inline-block;
+width:50%;
+}
+.footer-logo{
+  padding-top:40px;
+}
+.footer {}
+.footer-content {
+margin:0 auto;
+}
+.footer-boxgate {
+  float:left;
+  display: flex;
+  text-align: left;
+  margin-top:35px;
+}
+.footer-boxgate li{
+  list-style: none;
+}
+
+.footer-access {
+  background-color:rgb(0, 0, 0);
+  color:#ffffff;
+text-align: center;
+}
+.footer-address {
+  display: inline-block;
+width:50%;
+}
+.footer-address-box {
+}
+.footer-address-title {
+  font-weight: bold;
+  padding-bottom:20px;
+}
+.footer-address-box li{
+  list-style: none;
+}
+.footer-address-img {
+
+}
+
+
+.copyright {
+  text-align: center;
+  background-color:#ffffff;
+  color:#000000;
+  font-weight: normal;
+}
+
+}
