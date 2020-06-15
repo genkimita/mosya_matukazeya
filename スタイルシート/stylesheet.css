@@ -82,7 +82,8 @@ text-align: center;
 width:50%;
 }
 .footer-logo{
-
+padding-top:10px;
+padding-bottom:10px;
 }
 .footer {}
 .footer-content {
