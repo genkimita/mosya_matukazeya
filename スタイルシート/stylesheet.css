@@ -87,10 +87,15 @@ display: flex;
   list-style: none;
 }
 .footer-access {
-  text-align: left;
+  
 }
+.footer-address-title {
+  display: flex;
+  text-align: left;
+}  
 .footer-address-box li{
   list-style: none;
+  
 }
 .footer-sns {
 
