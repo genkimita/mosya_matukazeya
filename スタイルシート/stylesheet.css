@@ -93,7 +93,8 @@ margin:0 auto;
 display: flex;
 }
 .footer-address-title {
-
+}
+.footer-address-box {
   text-align: left;
 }
 .footer-address-box li{
