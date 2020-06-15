@@ -1,7 +1,7 @@
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
 
 html {
-  font-family:kyokasho_l;
+
 }
 
 head {
@@ -9,7 +9,7 @@ head {
 }
 
 body {
-  font-family:"kyokasho_l";
+
 }
 
 .header {
@@ -82,7 +82,7 @@ text-align: center;
 width:50%;
 }
 .footer-logo{
-  padding-top:40px;
+  margin-top:35px;
 }
 .footer {}
 .footer-content {
@@ -117,7 +117,7 @@ width:50%;
   list-style: none;
 }
 .footer-address-img {
-
+margin-bottom:75px;
 }
 
 
