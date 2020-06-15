@@ -82,7 +82,7 @@ text-align: center;
 width:50%;
 }
 .footer-logo{
-  margin-top:35px;
+
 }
 .footer {}
 .footer-content {
@@ -92,7 +92,6 @@ margin:0 auto;
   float:left;
   display: flex;
   text-align: left;
-  margin-top:35px;
 }
 .footer-boxgate li{
   list-style: none;
@@ -117,7 +116,7 @@ width:50%;
   list-style: none;
 }
 .footer-address-img {
-margin-bottom:75px;
+
 }
 
 
