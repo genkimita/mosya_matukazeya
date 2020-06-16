@@ -14,7 +14,7 @@ font-family:'kyokasho_l';
 
 .header {
   text-align: center;
-  background-image:  url("イメージ/menu.png"):
+  background-image:  url(イメージ/menu.png):
 }
 
 .about {
@@ -30,7 +30,7 @@ font-family:'kyokasho_l';
 
 
 .product {
-  background-image:  url("イメージ/ic_products5.jpg"):
+  background-image:  url(イメージ/bg_donuts.jpg):
 position: relative;
 top: 0px;
 left: 0px;
@@ -53,6 +53,7 @@ left: 0px;
 
 .introduction {
   text-align: center;
+  background-image:  url(イメージ/bg_beige.png):
 }
 .introduction-box {
   text-align: center;
@@ -86,7 +87,7 @@ left: 0px;
 }
 
 footer {
-  font-family:"kyokasho_l";
+  font-family:'kyokasho_l';
 text-align: center;
   background-color:rgb(0, 0, 0);
   color:#ffffff;
@@ -140,7 +141,7 @@ width:50%;
 .copyright h1{
   background-color:#ffffff;
   color:#000000;
-  font-family:kyokasho_l;
+  font-family:'kyokasho_l';
   text-align: center;
   font-weight: 400;
   font-size: 14px;
