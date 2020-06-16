@@ -128,9 +128,9 @@ text-align: center;
 width:50%;
 }
 .footer-address-box {
+  text-align: left;
 }
 .footer-address-title {
-  text-align: left;
   font-weight: bold;
   padding-bottom:20px;
 }
