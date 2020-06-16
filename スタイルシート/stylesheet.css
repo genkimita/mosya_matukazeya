@@ -5,11 +5,11 @@ html {
 }
 
 head {
-font-family:'kyokasho_l';
+
 }
 
 body {
-font-family:'kyokasho_l';
+
 }
 
 .header {
@@ -18,7 +18,7 @@ width: 100%;
 height: 600px;
 position: relative;
 background: url(イメージ/main.jpg);
-background-size: cover;
+
 }
 
 .about {
