@@ -14,7 +14,7 @@ font-family:'kyokasho_l';
 
 .header {
   text-align: center;
-  background: url(イメージ/main.jpg);
+  background-image: url("イメージ/main.jpg");
 }
 
 .about {
@@ -30,11 +30,10 @@ font-family:'kyokasho_l';
 
 
 .product {
-  background: url(イメージ/bg_donuts.jpg);
-
-position: relative;
-top: 0px;
-left: 0px;
+  background-image: url("イメージ/bg_donuts.jpg");
+  position: relative;
+  top: 0px;
+  left: 0px;
 }
 .product-wrapper {
   text-align: center;
