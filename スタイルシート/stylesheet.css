@@ -5,15 +5,16 @@ html {
 }
 
 head {
-font-family:"kyokasho_l";
+font-family:'kyokasho_l';
 }
 
 body {
-font-family:"kyokasho_l";
+font-family:'kyokasho_l';
 }
 
 .header {
   text-align: center;
+  background-image:  url("イメージ/menu.png"):
 }
 
 .about {
