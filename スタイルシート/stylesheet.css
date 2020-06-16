@@ -127,7 +127,7 @@ text-align: center;
 width:50%;
 }
 .footer-address-box {
-display: flex;
+text-align: center;
 }
 .footer-address-title {
   font-weight: bold;
