@@ -17,8 +17,8 @@ text-align: center;
 width: 100%;
 height: 600px;
 position: relative;
-background: url(イメージ/main.jpg);
-
+background: url("イメージ/main.jpg") no-repeat center center;
+background-size: cover;
 }
 
 .about {
@@ -146,7 +146,6 @@ display: flex;
 .copyright h1{
   background-color:#ffffff;
   color:#000000;
-  font-family:'kyokasho_l';
   text-align: center;
   font-weight: 400;
   font-size: 14px;
