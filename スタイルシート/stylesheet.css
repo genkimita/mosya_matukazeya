@@ -10,8 +10,9 @@ main {
   background-size: cover;
 }
 .header {
-  padding-top:200px;
-  padding-bottom:200px;
+  margin-top:200px;
+  margin-bottom:200px;
+  
 }
 
 
