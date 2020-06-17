@@ -1,6 +1,8 @@
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
 
-html {}
+html {
+  font-family:'kyokasho_l';
+}
 
 main {
   text-align: center;
@@ -93,7 +95,6 @@ body {}
 }
 
 footer {
-  font-family:'kyokasho_l';
 text-align: center;
   background-color:rgb(0, 0, 0);
   color:#ffffff;
