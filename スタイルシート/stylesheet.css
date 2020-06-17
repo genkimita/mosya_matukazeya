@@ -52,10 +52,17 @@ body {}
   line-height: 33px;
   list-style: none;
 }
-.about input{
-  font-weight: 650;
+.about p{
+  font-weight: 400;
   font-size: 16px;
   line-height: 16px;
+}
+.about-btn {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 16px;
+}
+.about input{
 }
 
 
