@@ -127,10 +127,11 @@ text-align: center;
 }
 .footer-address {
   display: inline-block;
+  text-align: center;
 width:50%;
 }
 .footer-address-box {
-text-align: center;
+
 }
 .footer-address-title {
 
