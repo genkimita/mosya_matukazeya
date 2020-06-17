@@ -44,15 +44,18 @@ body {}
 .about h1{
   font-size: 27px;
   font-weight: 500;
+  line-height: 27px;
 }
 .about li{
   font-size: 18px;
   font-weight: 400;
+  line-height: 33px;
   list-style: none;
 }
 .about input{
   font-weight: 650;
   font-size: 16px;
+  line-height: 16px;
 }
 
 
