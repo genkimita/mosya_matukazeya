@@ -4,6 +4,17 @@ html {
   font-family:'kyokasho_l';
 }
 
+head {}
+
+header {}
+
+.header-scr {
+  text-align: center;
+}
+.header-list {
+  display: inline-block;
+}
+
 main {
   text-align: center;
   width:100%;
@@ -11,13 +22,13 @@ main {
   background-image: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/main.jpg);
   background-size: cover;
 }
-.header img{
+.main-img {
   padding-top:200px;
   padding-bottom:200px;
 }
 
 
-head {}
+
 
 body {}
 
