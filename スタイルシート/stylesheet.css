@@ -32,10 +32,10 @@ body {}
 
 
 .product {
-  background-image: url("イメージ/bg_donuts.jpg");
-  position: relative;
-  top: 0px;
-  left: 0px;
+  background-image: url(イメージ/bg_donuts.jpg);
+
+width:100%;
+height:600px;
 }
 .product-wrapper {
   text-align: center;
