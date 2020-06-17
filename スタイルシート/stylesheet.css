@@ -11,6 +11,9 @@ header {}
 .header-scr {
   text-align: center;
 }
+.header-block {
+  display: inline-block;
+}
 .header-list {
   display: inline-block;
 }
