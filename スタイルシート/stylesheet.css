@@ -78,11 +78,14 @@ body {}
   font-size: 30px;
 }
 .product-wrapper p{
+  font-weight: 400;
   font-size: 18px;
+  line-height: 32px;
 }
 .product input{
   font-weight: 700;
   font-size: 16px;
+  line-height: 16px;
 }
 
 .introduction {
@@ -103,10 +106,22 @@ body {}
   text-align: center;
 }
 .introduction-wrapper h1{
+  font-weight: 500;
   font-size: 30px;
+  line-height: 30px;
+}
+.introduction-wrapper h2{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
 }
 .introduction-wrapper {
   font-size: 16px;
+}
+.introduction-btn {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 16px;
 }
 
 .notice-wrapper {
