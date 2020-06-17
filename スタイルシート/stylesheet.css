@@ -50,6 +50,10 @@ body {}
   font-weight: 400;
   list-style: none;
 }
+.about input{
+  font-weight: 650;
+  font-size: 16px;
+}
 
 
 .product {
@@ -72,6 +76,10 @@ body {}
 }
 .product-wrapper p{
   font-size: 18px;
+}
+.product input{
+  font-weight: 700;
+  font-size: 16px;
 }
 
 .introduction {
