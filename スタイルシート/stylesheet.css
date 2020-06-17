@@ -9,10 +9,9 @@ main {
   background-image: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/main.jpg);
   background-size: cover;
 }
-.header {
-  margin-top:200px;
-  margin-bottom:200px;
-  
+.header img{
+  padding-top:200px;
+  padding-bottom:200px;
 }
 
 
