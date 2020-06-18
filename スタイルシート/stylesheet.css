@@ -155,15 +155,13 @@ notice {
   font-weight: 589.5;
   font-size: 16px;
   line-height: 16px;
-  padding-bottom:100px;
+  margin-bottom:100px;
 }
 
-order {
+.order {
+  text-align: center;
   background: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/bg_beige.png);
   background-repeat: repeat;
-}
-.order-wrapper {
-  text-align: center;
 }
 .order-wrapper h1{
   font-weight: 500;
@@ -180,10 +178,11 @@ order {
   font-size: 30px;
   line-height: 30px;
 }
-.order-wrapper input{
+.order-btn {
   font-weight: 695;
   font-size: 16px;
   line-height: 16px;
+  margin-bottom:100px;
 }
 
 access {}
