@@ -70,7 +70,7 @@ body {}
   line-height: 16px;
   margin-bottom:100px;
 }
-.about-btn:hover {
+.about-btn input:hover {
   background-color:#000000;
   color:#ffffff;
 }
