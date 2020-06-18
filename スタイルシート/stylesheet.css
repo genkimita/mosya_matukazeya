@@ -64,7 +64,7 @@ body {}
   line-height: 16px;
 }
 .about-btn {
-  background-color: transparent;
+  background-color:rgba(0,0,0,0);
   font-weight: 700;
   font-size: 16px;
   line-height: 16px;
