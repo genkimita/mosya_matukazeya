@@ -72,10 +72,14 @@ body {}
   background-image: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/bg_donuts.jpg);
   background-size: cover;
   width:100%;
-  text-align: center;
+  height:600px;
   vertical-align: middle;
 }
 .product-box {
+  text-align: center;
+  margin-bottom:100px;
+}
+.product-box-one {
   display: inline-block;
   width:50%;
 }
@@ -140,7 +144,7 @@ body {}
   font-weight: 700;
   font-size: 16px;
   line-height: 16px;
-  padding-top:100px;
+  margin-bottom:100px;
 }
 
 notice {
