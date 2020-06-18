@@ -8,6 +8,11 @@ head {}
 
 header {}
 
+input {
+  padding:5px 45px;
+}
+
+
 .header-scr {
   text-align: center;
 }
