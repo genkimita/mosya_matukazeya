@@ -168,6 +168,7 @@ notice {
   margin-bottom:100px;
 }
 
+order {}
 .order {
   text-align: center;
   background: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/bg_beige.png);
@@ -189,7 +190,7 @@ notice {
   font-size: 30px;
   line-height: 30px;
 }
-.order-btn {
+.order-btn input{
   font-weight: 695;
   font-size: 16px;
   line-height: 16px;
