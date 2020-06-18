@@ -74,6 +74,7 @@ body {}
 }
 .product-wrapper {
   text-align: center;
+  vertical-align: middle;
 }
 .product-wrapper h1{
   font-weight: 400;
