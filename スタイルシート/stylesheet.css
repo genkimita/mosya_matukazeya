@@ -1,185 +1,304 @@
-<!DOCTYPE html>
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
 
-<html>
+html {
+  font-family:'kyokasho_l';
+}
 
-<head>
-<meta charset="utf-8">
-<title>株式会社松風屋｜創業約100年　山形の菓子処松風屋｜公式サイト</title>
-<link rel="stylesheet" href="スタイルシート/stylesheet.css" type="text/css">
-</head>
+head {}
 
+header {}
 
-<header class="header-scr">
-  <h1 class="header-block"><img src="イメージ/logo.png" alt="松風屋" href=""></h1>
-  <ul class="header-block">
-    <li class="header-list"><a href="">トップページ</a></li>
-    <li class="header-list"><a href="">松風屋のこだわり</a></li>
-    <li class="header-list"><a href="">あんどーなつ</a></li>
-    <li class="header-list"><a href="">商品のご紹介</a></li>
-    <li class="header-list"><a href="">店舗情報</a></li>
-    <li class="header-list"><a href="">会社概要</a></li>
-    <li class="header-list"><a href="">ご注文・お問い合わせ</a></li>
-  </ul>
-</header>
+.header-scr {
+  text-align: center;
+}
+.header-block {
+  display: inline-block;
+}
+.header-list {
+  display: inline-block;
+}
 
-<main>
-<div class="main-img">
-  <img src="イメージ/logo (2).png">
-</div>
-</main>
-
-<body>
-<div class="about">
-<h1>和菓子処松風屋のこだわり</h1>
-<ul>
-<li>当社は、大正10年に創業した約100年の歴史を持つ和菓子屋です。</li>
-<li>初代社長、佐々木市郎は俳聖松尾芭蕉を敬愛しており、「奥の細道　芭蕉最中」など</li>
-<li>芭蕉にゆかりのある菓子を作り続けてきました。</li>
-<li>松尾芭蕉が奥の細道の旅の間に見出した概念に「不易流行」というものがあります。</li>
-<li>これは、いつまでも変化しない本質的なものを忘れない中にも、</li>
-<li>新しい変化を取り入れていくということです。</li>
-<li>当社はこの言葉を経営理念とし、昔からの伝統を守りつつ、</li>
-<li>時代の流れや新しい変化を取り入れ、常により良い菓子を探求し続けています。</li>
-</ul>
-<img src="イメージ/name.png">
-<p>株式会社松風屋三代目　佐々木啓仁</p>
-<a class="about-btn" href="○">
-<input type="submit" value="詳しく見る" href="">
-</a>
-</div>
-
-<div class="product">
-  <div class="product-box">
-     <div class="product-box-one">あああああ
-     </div>
-     <div class="product-box-one">
-        <div class="product-wrapper">
-         <h1>和菓子職人が丹精込めて作った</h1>
-         <h2>昔なつかし<span>あんどーなつ</span></h2>
-         <p>繊細な味覚を持つ和菓子職人が丹精込めて作ったら、上品な甘さの特別なあんどーなつができました。<br />こだわりの食材を職人の技で仕上げた松風屋のあんどーなつをぜひご賞味ください。</p>
-        </div>
-        <div class="product-btn">
-           <input type="submit" value="詳しく見る" href="">
-        </div>
-     </div>
-  </div>
-</div>
-
-<div class="introduction">
-     <div class="introduction-wrapper">
-     <h1>商品のご紹介</h1>
-     <h2>素材の良さを活かしながら、熟練の技でひとつひとつ、まごころ込めて手作りしています。</h2>
-   </div>
-   <div class="introduction-box">
-    <img src="イメージ/ic_products1.jpg">
-    <img src="イメージ/ic_products2.jpg">
-    <img src="イメージ/ic_products3.jpg">
-    <img src="イメージ/ic_products4.jpg">
-    <img src="イメージ/ic_products5.jpg">
-   </div>
-   <div class="introduction-btn">
-     <input type="submit" value="商品一覧" href="">
-   </div>
-</div>
-
-</body>
-
-<notice>
-  <div class="notice-wrapper">
-     <h1>お知らせ</h1>
-  </div>
-  <div class="notice-btn">
-     <input type="submit" value="Facebook">
-  </div>
-</notice>
-
-<div class="order">
-    <div class="order-wrapper">
-       <h1>商品のご注文・お問い合わせ</h1>
-       <h2>松風屋では、全国のお客様への発送も行っております。<br />商品のご注文や、その他お問い合わせ等お待ちしております。</h2>
-       <h3>TEL：023-631-3012<br />FAX：023-631-3013</h3>
-    </div>
-    <div class="order-btn">
-      <input type="submit" value="ご注文・お問い合わせ">
-    </div>
-</div>
-
-<access>
-<div class="access-wrapper">
-    <h1>店舗情報</h1>
- <div class="access-container">
-
-       <h1>株式会社松風屋</h1>
-
-       <div class="access-content-category">
-         <h1>住所</h1>
-         <h2>TEL/FAX</h2>
-         <h3>営業時間</h3>
-         <h4>定休日</h4>
-       </div>
-       <div class="access-content-address">
-         <h1>〒990-0042<br />山形県山形市七日町四丁目3−11</h1>
-         <h2>023-631-3012／023-631-3013</h2>
-         <h3>平日8：30～18：30<br />日曜9：00～17：00</h3>
-         <h4>年中無休</h4>
-       </div>
-        <div class="access-map">
-        </div>
- </div>
-   <div class="access-btn">
-     <input type="submit" value="会社概要・店舗情報">
-   </div>
-</div>
-</access>
-
-<footer>
-  <div class="footer-block">
-     <div class="footer-logo">
-        <img src="イメージ/logo (1).png">
-     </div>
-  </div><div class="footer-block">
-      <div class="footer-boxgate">
-      <ul class="footer-box-one">
-        <li>トップページ</li>
-        <li>松風屋のこだわり</li>
-        <li>あんどーなつ</li>
-      </ul>
-      <ul class="footer-address-two">
-        <li>商品のご紹介</li>
-        <li>ご注文・お問い合わせ</li>
-        <li>店舗情報</li>
-      </ul>
-      <ul class="footer-address-two">
-        <li>会社概要</li>
-        <li>Facebookページ</li>
-      </ul>
-      </div>
-  </div>
-
-
-</footer>
-
- <div class="footer-access">
-   <div class="footer-address">
-     <ul class="footer-address-box">
-      <li class="footer-address-one">株式会社松風屋</li>
-      <li class="footer-addresstwo">〒990-0042 山形県山形市七日町四丁目3−11</li>
-      <li class="footer-address-two">TEL：023-631-3012　FAX：023-631-3013</li>
-     </ul>
-   </div><div class="footer-address">
-     <div class="footer-address-img">
-     <img src="イメージ/btn_fb.png" href="">
-     <img src="イメージ/btn_tw.png" href="">
-   </div>
- </div>
+main {
+  text-align: center;
+  width:100%;
+  height:600px;
+  background-image: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/main.jpg);
+  background-size: cover;
+}
+.main-img {
+  padding-top:200px;
+  padding-bottom:200px;
+}
 
 
 
 
-
-  <div class="copyright">
-     <h1>Copyright 株式会社松風屋 All right reserved.</h1>
-  </div>
+body {}
 
 
-</html>
+
+
+.about {
+  text-align: center;
+}
+.about h1{
+  font-size: 27px;
+  font-weight: 500;
+  line-height: 27px;
+  padding-top:100px;
+}
+.about li{
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 33px;
+  list-style: none;
+}
+.about p{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+}
+.about-btn {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 16px;
+  margin-bottom:100px;
+}
+.about input{
+}
+
+
+.product {
+  background-image: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/bg_donuts.jpg);
+  background-size: cover;
+  width:100%;
+  height:600px;
+  vertical-align: middle;
+}
+.product-box {
+
+}
+.product-box-one {
+  display: inline-block;
+  margin-bottom:100px;
+}
+.product-wrapper {
+}
+.product-wrapper h1{
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 19px;
+  text-align: center;
+}
+.product-wrapper h2{
+  font-size: 21px;
+  text-align: center;
+}
+.product-wrapper h2 span{
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 30px;
+}
+.product-wrapper p{
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  text-align: left;
+}
+.product-btn {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 16px;
+  text-align: center;
+}
+
+.introduction {
+  text-align: center;
+  background: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/bg_beige.png);
+  background-repeat: repeat;
+}
+.introduction-box {
+  text-align: center;
+}
+.introduction-box img{
+  display: inline-block;
+}
+.introduction-btn {
+
+}
+.introduction-wrapper {
+  text-align: center;
+}
+.introduction-wrapper h1{
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 30px;
+  padding-top:80px;
+}
+.introduction-wrapper h2{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+}
+.introduction-wrapper {
+  font-size: 16px;
+}
+.introduction-btn {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 16px;
+  margin-bottom:100px;
+}
+
+notice {
+  text-align: center;
+}
+.notice-wrapper {
+  padding-top:100px;
+}
+.notice-wrapper h1{
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 30px;
+}
+.notice-btn {
+  font-weight: 589.5;
+  font-size: 16px;
+  line-height: 16px;
+  margin-bottom:100px;
+}
+
+.order {
+  text-align: center;
+  background: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/bg_beige.png);
+  background-repeat: repeat;
+}
+.order-wrapper h1{
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 30px;
+  padding-top:80px;
+}
+.order-wrapper h2{
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+}
+.order-wrapper h3{
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 30px;
+}
+.order-btn {
+  font-weight: 695;
+  font-size: 16px;
+  line-height: 16px;
+  margin-bottom:100px;
+}
+
+access {}
+.access-content-category {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 16px;
+}
+.access-content-address {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.access-wrapper {
+  text-align: center;
+}
+.access-wrapper h1{
+  font-weight: 500;
+  font-size: 27px;
+  line-height: 27px;
+}
+.access-container h1{
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 19px;
+}
+.access-btn {
+  font-weight: 689.75;
+  font-size: 16px;
+  line-height: 16px;
+  margin-bottom:100px;
+}
+
+footer {
+text-align: center;
+  background-color:rgb(0, 0, 0);
+  color:#ffffff;
+}
+.footer-block {
+  display: inline-block;
+width:50%;
+}
+.footer-logo{
+padding-top:10px;
+padding-bottom:10px;
+}
+.footer {}
+.footer-content {
+margin:0 auto;
+}
+.footer-boxgate {
+  padding-top:15px;
+  float:left;
+  display: flex;
+  text-align: left;
+}
+.footer-boxgate li{
+  list-style: none;
+}
+.footer-box-one {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 14px;
+}
+
+.footer-access {
+  background-color:rgb(0, 0, 0);
+  color:#ffffff;
+text-align: center;
+}
+.footer-address {
+  display: inline-block;
+  text-align: center;
+width:50%;
+}
+.footer-address-box {
+padding-left:250px;
+}
+.footer-address-one {
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 19px;
+  list-style: none;
+}
+.footer-address-two {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+}
+.footer-address-box li{
+   text-align: left;
+   list-style: none;
+}
+.footer-address-img {
+
+}
+
+
+.copyright h1{
+  background-color:#ffffff;
+  color:#000000;
+  text-align: center;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+}
+
+}
