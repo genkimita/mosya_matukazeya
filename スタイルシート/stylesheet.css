@@ -92,10 +92,7 @@ body {}
 }
 .product-box-one {
   display: inline-block;
-  width:100%;
-  padding-right:100px;
-  padding-left:100px;
-  margin: 0 auto;
+  padding-left:50%;
 }
 .product-wrapper {
 }
