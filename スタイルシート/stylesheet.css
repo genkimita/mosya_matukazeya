@@ -99,6 +99,8 @@ body {}
 
 }
 .product-box-one {
+  position: relative;
+  left: 50%;
   display: inline-block;
   width:510px;
   padding-top:110px;
