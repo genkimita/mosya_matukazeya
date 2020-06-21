@@ -91,7 +91,7 @@ body {}
 
 .product {
   position: relative;
-  left: 50%;
+  left: 780px;
   background-image: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/bg_donuts.jpg);
   background-size: cover;
   width:100%;
