@@ -90,6 +90,8 @@ body {}
 
 
 .product {
+  position: relative;
+  left: 50%;
   background-image: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/bg_donuts.jpg);
   background-size: cover;
   width:100%;
@@ -99,8 +101,6 @@ body {}
 
 }
 .product-box-one {
-  position: relative;
-  left: 50%;
   display: inline-block;
   width:510px;
   padding-top:110px;
