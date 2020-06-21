@@ -154,6 +154,7 @@ introduction {
 .introduction img{
   max-width: 100%;
   vertical-align: bottom;
+  line-height: 1.0em;
 }
 .introduction-wrapper {
   text-align: center;
