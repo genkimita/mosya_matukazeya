@@ -86,7 +86,6 @@ body {}
 .about-btn input:hover {
   background-color:#000000;
   color:#ffffff;
-
 }
 
 
@@ -131,6 +130,11 @@ body {}
   font-size: 16px;
   line-height: 16px;
   text-align: center;
+}
+.product-btn input:active{
+  position: relative;
+  top: 5px;
+  box-shadow: none;
 }
 
 .introduction {
