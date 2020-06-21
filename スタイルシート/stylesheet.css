@@ -58,13 +58,6 @@ main {
 }
 
 
-
-
-body {}
-
-
-
-
 .about {
   text-align: center;
   margin-bottom:100px;
@@ -148,10 +141,12 @@ body {}
   text-align: center;
 }
 
-.introduction {
+introduction {
   text-align: center;
   background: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/bg_beige.png);
   background-repeat: repeat;
+}
+.introduction {
 }
 .introduction-box {
   text-align: center;
