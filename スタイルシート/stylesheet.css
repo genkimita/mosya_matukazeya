@@ -22,11 +22,12 @@ input:active {
 }
 
 header {
+  width:100%;
   position: fixed;
   top: 0px;
   z-index:10;
   text-align: center;
-  background-color:rgb(255, 255, 255);
+  background-color:rgba(255, 255, 255,0.5);
 }
 .header-scr {
 }
