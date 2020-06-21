@@ -143,8 +143,7 @@ main {
 
 introduction {
   background: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/bg_beige.png);
-  background-repeat: repeat;
-  text-align: center;
+  
   height:650px;
 }
 .introduction {
