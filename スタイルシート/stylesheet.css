@@ -143,19 +143,17 @@ main {
 
 introduction {
   text-align: center;
-  background: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/bg_beige.png);
-  background-repeat: repeat;
   height:650px;
 }
 .introduction {
+  background: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/bg_beige.png);
+  background-repeat: repeat;
 }
 .introduction-box {
-  text-align: center;
 }
 .introduction img{
-  max-width: 100%;
-  vertical-align: bottom;
-  line-height: 1.0em;
+  float: left;
+	display: block;
 }
 .introduction-wrapper {
   text-align: center;
