@@ -150,9 +150,9 @@ introduction {
 .introduction {
 }
 .introduction-box {
+  text-align: center;
 }
 .introduction img{
-  float: left;
 }
 .introduction-wrapper {
   text-align: center;
