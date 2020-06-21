@@ -151,8 +151,9 @@ introduction {
 .introduction-box {
   text-align: center;
 }
-.introduction-box img{
-  display: inline-block;
+.introduction-img {
+  display: block;
+  float:left;
 }
 .introduction-wrapper {
   text-align: center;
