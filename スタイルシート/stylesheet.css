@@ -151,9 +151,9 @@ introduction {
 .introduction-box {
   text-align: center;
 }
-.introduction-img {
-  display: block;
-  float:left;
+.introduction img{
+  max-width: 100%;
+  vertical-align: bottom;
 }
 .introduction-wrapper {
   text-align: center;
