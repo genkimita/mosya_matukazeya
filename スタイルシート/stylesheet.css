@@ -322,6 +322,8 @@ copyright {}
   background-color:#ffffff;
   color:#000000;
   text-align: center;
+}
+.copyright h1{
   font-weight: 400;
   font-size: 14px;
   line-height: 14px;
