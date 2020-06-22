@@ -318,9 +318,10 @@ footer {
 .footer-address {
   display: inline-block;
 }
-.footer-address-boxgate {
-  list-style: none;
+.footer-box li{
   text-align: left;
+  list-style: none;
+  padding-bottom:10px;
 }
 .footer-address-box a{
   font-weight: 600;
