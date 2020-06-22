@@ -301,6 +301,7 @@ footer {
 }
 .footer-front-box {
   display: inline-block;
+  width:50%;
 }
 .footer-boxgate {
 }
