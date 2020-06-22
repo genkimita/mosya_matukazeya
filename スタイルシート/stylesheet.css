@@ -243,6 +243,9 @@ access {}
 .access-wrapper {
   text-align: center;
 }
+.access-container.access-map {
+  display: inline-block;
+}
 .access-wrapper h1{
   font-weight: 500;
   font-size: 27px;
@@ -258,6 +261,10 @@ access {}
   font-size: 16px;
   line-height: 16px;
   margin-bottom:100px;
+}
+.access-map {
+  width:480px;
+  height:260px;
 }
 
 footer {
