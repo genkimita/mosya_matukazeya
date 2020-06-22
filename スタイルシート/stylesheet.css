@@ -295,11 +295,13 @@ footer {
 }
 .footer-front {
   text-align: center;
+}
+.footer-front-box {
+  display: inline-block;
   padding-top:10px;
   padding-bottom:10px;
 }
 .footer-boxgate {
-  text-align: center;
 }
 .footer-box {
   list-style: none;
