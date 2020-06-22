@@ -294,14 +294,16 @@ footer {
   color:#ffffff;
 }
 .footer-front {
+  text-align: center;
   padding-top:10px;
   padding-bottom:10px;
 }
-.footer-front-box {
-  display: inline-block;
+.footer-boxgate {
+  text-align: center;
 }
 .footer-box {
   list-style: none;
+  display: inline-block;
 }
 .footer-box li{
   font-weight: 600;
