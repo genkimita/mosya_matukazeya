@@ -299,15 +299,13 @@ footer {
   padding-bottom:10px;
   width:50%;
 }
-.footer-boxgate li{
+.footer-box {
   list-style: none;
 }
-.footer-box-one {
+.footer-box li{
   font-weight: 600;
   font-size: 14px;
   line-height: 14px;
-}
-.footer-rear {
 }
 .footer-rear {
   text-align: center;
@@ -329,6 +327,9 @@ footer {
   font-weight: 400;
   font-size: 16px;
   line-height: 16px;
+}
+.footer-address img{
+  padding-left:5px;
 }
 
 copyright {}
