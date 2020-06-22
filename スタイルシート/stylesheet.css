@@ -320,6 +320,7 @@ footer {
 }
 .footer-address-boxgate li{
  text-align: left;
+ list-style: none;
 }
 .footer-address-box a{
   font-weight: 600;
