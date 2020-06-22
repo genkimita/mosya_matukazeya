@@ -204,12 +204,14 @@ order {}
   text-align: center;
   background: url(https://raw.githubusercontent.com/genkimita/mosya_matukazeya/master/イメージ/bg_beige.png);
   background-repeat: repeat;
+  padding-bottom:100px;
 }
 .order-wrapper h1{
   font-weight: 500;
   font-size: 30px;
   line-height: 30px;
   padding-top:80px;
+  padding-bottom:40px;
 }
 .order-wrapper h2{
   font-weight: 400;
@@ -221,11 +223,13 @@ order {}
   font-size: 30px;
   line-height: 30px;
 }
+.order-wrapper h3 a{
+  padding-top:20px;
+}
 .order-btn input{
   font-weight: 695;
   font-size: 16px;
   line-height: 16px;
-  margin-bottom:100px;
 }
 
 access {}
