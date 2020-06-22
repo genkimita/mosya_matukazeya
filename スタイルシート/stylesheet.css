@@ -227,45 +227,49 @@ order {}
 }
 
 access {}
-.access-box-one {
-  font-weight: 300;
-  font-size: 16px;
-  line-height: 16px;
-  text-align: left;
-}
-.access-box-two {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  padding-left:50px;
-  text-align: left;
-}
-.access-wrapper {
-  text-align: center;
-}
-.access-container.access-map {
-  display: inline-block;
-}
-.access-wrapper h1{
+  .access-wrapper {
+    text-align: center;
+    margin-bottom:100px;
+  }
+.access-info h1{
   font-weight: 500;
   font-size: 27px;
   line-height: 27px;
 }
-.access-container h1{
+.access-method {
+  text-align: center;
+}
+.access-address {
+  display: inline-block;
+}
+.access-box li{
+
+}
+.access-list a{
   font-weight: 700;
   font-size: 19px;
   line-height: 19px;
+}
+.access-list {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 16px;
+}
+.access-list span{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.access-address iframe{
+  width:480px;
+  height:260px;
 }
 .access-btn {
   font-weight: 689.75;
   font-size: 16px;
   line-height: 16px;
-  margin-bottom:100px;
 }
-.access-map {
-  width:480px;
-  height:260px;
-}
+
 
 footer {
 text-align: center;
