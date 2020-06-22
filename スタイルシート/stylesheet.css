@@ -255,7 +255,7 @@ text-align: left;
   font-weight: 700;
   font-size: 19px;
   line-height: 19px;
-  padding-bottom:55px;
+  padding-bottom:5px;
 }
 .access-list {
   font-weight: 300;
@@ -269,7 +269,7 @@ text-align: left;
   line-height: 24px;
 }
 .tel-number {
-  padding-left:8px;
+
 }
 .access-address iframe{
   width:480px;
