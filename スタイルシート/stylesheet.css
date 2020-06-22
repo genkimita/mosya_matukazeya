@@ -241,9 +241,12 @@ access {}
 }
 .access-address {
   display: inline-block;
+  padding-left:55px;
+  padding-right:55px;
 }
 .access-box li{
-
+list-style: none;
+text-align: left;
 }
 .access-list a{
   font-weight: 700;
