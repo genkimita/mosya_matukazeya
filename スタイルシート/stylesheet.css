@@ -11,6 +11,7 @@ head {}
 
 
 input {
+  display: inline-block;
   padding: 0.3em 1em;
   text-decoration: none;
   color: #000000;
@@ -18,7 +19,9 @@ input {
   border-radius: 3px;
   transition: .4s;
 }
-input:active {
+input:hover {
+  background: #000000;
+  color: white;
 }
 
 header {
