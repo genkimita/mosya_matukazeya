@@ -342,7 +342,8 @@ footer {
   padding-bottom:15px;
 }
 .footer-address-icon {
-  margin-block-start: 420px;
+  padding-left:410px;
+  padding-top:20px;
 }
 .footer-address img{
 }
