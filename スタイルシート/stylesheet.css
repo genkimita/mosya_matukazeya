@@ -19,6 +19,9 @@ input {
   border: solid 2px #000000;
   border-radius: 3px;
   transition: .4s;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 16px;
 }
 input:hover {
   background: #000000;
@@ -85,15 +88,6 @@ main {
   line-height: 16px;
 }
 .about-btn {
-  transition: all 1s;
-  background-color:rgba(0,0,0,0);
-  font-weight: 700;
-  font-size: 16px;
-  line-height: 16px;
-}
-.about-btn input:hover {
-  background-color:#000000;
-  color:#ffffff;
 }
 
 product {
@@ -140,11 +134,6 @@ product {
   text-align: left;
 }
 .product-btn {
-  background-color:#00000000;
-  font-weight: 700;
-  font-size: 16px;
-  line-height: 16px;
-  text-align: center;
 }
 
 introduction {
@@ -178,11 +167,6 @@ introduction {
   font-size: 16px;
 }
 .introduction-btn {
-  text-align: center;
-  font-weight: 700;
-  font-size: 16px;
-  line-height: 16px;
-  padding-bottom:100px;
 }
 
 notice {
@@ -199,10 +183,6 @@ notice {
   padding-bottom:60px;
 }
 .notice-btn {
-  font-weight: 589.5;
-  font-size: 16px;
-  line-height: 16px;
-  margin-bottom:100px;
 }
 
 order {}
@@ -233,9 +213,6 @@ order {}
   padding-top:20px;
 }
 .order-btn input{
-  font-weight: 695;
-  font-size: 16px;
-  line-height: 16px;
 }
 
 access {}
@@ -288,9 +265,6 @@ text-align: left;
   height:260px;
 }
 .access-btn {
-  font-weight: 689.75;
-  font-size: 16px;
-  line-height: 16px;
 }
 
 
