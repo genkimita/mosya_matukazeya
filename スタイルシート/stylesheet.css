@@ -320,7 +320,6 @@ footer {
   text-align: center;
 }
 .footer-address {
-  width:50%;
   display: inline-block;
 }
 .footer-address-boxgate li{
@@ -345,10 +344,9 @@ footer {
   padding-left:300px;
 }
 .footer-address img{
-  padding-left:5px;
 }
 .footer-address-sns {
-  padding-left:410px;
+  padding-left:5px;
 }
 
 copyright {}
