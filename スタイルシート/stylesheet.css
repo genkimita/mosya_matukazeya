@@ -4,7 +4,6 @@ html {
   font-family: 'kyokasho_l';
   font-weight: normal;
   margin: 0;
-  overflow: hidden;
 }
 
 head {}
@@ -23,7 +22,7 @@ input:active {
 }
 
 header {
-  
+
   width:100%;
   position: fixed;
   top: 0px;
