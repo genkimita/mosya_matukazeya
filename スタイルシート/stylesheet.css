@@ -320,7 +320,7 @@ footer {
   text-align: center;
 }
 .footer-address {
-  max-width: 50%;
+  width:50%;
   display: inline-block;
 }
 .footer-address-boxgate li{
